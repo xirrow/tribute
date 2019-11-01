@@ -1,2 +1,2 @@
 # tribute
-# CYBERDYNE SYSTEMS SERIES 800 TERMINATOR Tribute Page
+# Cyberdyne Systems Series 800 Terminator Tribute Page
