@@ -1,2 +1,2 @@
 # tribute
-T800 Tribute Page
+# CYBERDYNE SYSTEMS SERIES 800 TERMINATOR Tribute Page
